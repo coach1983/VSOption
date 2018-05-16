@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OptionModelManifest.xml
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModel\bin\Debug\OptionModel.debugapp

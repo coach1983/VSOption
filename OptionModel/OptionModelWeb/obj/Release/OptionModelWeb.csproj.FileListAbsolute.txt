@@ -1,0 +1,9 @@
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\bin\OptionModelWeb.dll.config
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\bin\OptionModelWeb.dll
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\bin\OptionModelWeb.pdb
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\obj\Release\OptionModelWeb.csprojResolveAssemblyReference.cache
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\obj\Release\OptionModelWeb.csproj.CoreCompileInputs.cache
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\obj\Release\OptionModelWeb.dll
+C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModelWeb\obj\Release\OptionModelWeb.pdb
