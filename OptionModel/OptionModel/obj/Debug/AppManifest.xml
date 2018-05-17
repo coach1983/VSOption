@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
      Name="OptionModel"
-     ProductID="{98f99188-87e1-4fb0-8dec-dfface5fdd9c}"
+     ProductID="{9afa9b0b-efe2-4072-a4ae-d4b75a7ef071}"
      Version="1.0.0.0"
      SharePointMinVersion="15.0.0.0"
 >

@@ -1,1 +1,3 @@
 C:\Users\US00879\Documents\GitHub\VSOption\OptionModel\OptionModel\obj\Debug\OptionModel.csproj.CoreCompileInputs.cache
+C:\Users\katie\OneDrive\Documents\GitHub\VSOption\OptionModel\OptionModel\obj\Debug\OptionModel.csprojAssemblyReference.cache
+C:\Users\katie\OneDrive\Documents\GitHub\VSOption\OptionModel\OptionModel\obj\Debug\OptionModel.csproj.CoreCompileInputs.cache
