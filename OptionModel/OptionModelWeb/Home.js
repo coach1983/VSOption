@@ -39,11 +39,11 @@
 
             var range = context.workbook.getSelectedRange();
             range.format.fill.color = "yellow";
-            var s = Number($('#text1').val());
-            var x = Number($('#text2').val());
-            var t = Number($('#text3').val());
-            var r = Number($('#text4').val());
-            var v = Number($('#text5').val());
+            var s = Number($('#StockPrice').val());
+            var x = Number($('#StrikePrice').val());
+            var t = Number($('#YearsTM').val());
+            var r = Number($('#RiskFreeRate').val());
+            var v = Number($('#Vol').val());
             var flag = $('#flag').val();
 
 
