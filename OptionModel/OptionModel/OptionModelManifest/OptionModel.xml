@@ -22,10 +22,10 @@
   <!-- Icon for your add-in. Used on installation screens and the add-ins dialog. -->
   <IconUrl DefaultValue="https://optionmodel.azurewebsites.net/Images/Button32x32.png" />
 
-  <SupportUrl DefaultValue="https://optionmodel.azurewebsites.net/" />
+  <SupportUrl DefaultValue="https://optionmodel.azurewebsites.net/help.html" />
   <!-- Domains that will be allowed when navigating. For example, if you use ShowTaskpane and then have an href link, navigation will only be allowed if the domain is on this list. -->
   <AppDomains>
-    <AppDomain>AppDomain1</AppDomain>
+    <AppDomain>https://optionmodel.azurewebsites.net</AppDomain>
     <AppDomain>AppDomain2</AppDomain>
     <AppDomain>AppDomain3</AppDomain>
   </AppDomains>
