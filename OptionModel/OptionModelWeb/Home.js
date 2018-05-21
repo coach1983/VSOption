@@ -13,6 +13,8 @@
 
             $("#run").click(run);
             $("#createTable").click(createTable);
+            $("#createGraph").click(createGraph);
+
         });
     };
 
@@ -111,6 +113,36 @@
             });
     }
 
+    function createGraph() {
+        Excel.run(function (context) {
+
+
+            const sheets = context.workbook.worksheets;
+
+            sheets.load("items/name");
+            context.sync();
+
+
+
+            const currentWorksheet = context.workbook.worksheets.getItem("Data");
+            var dataRange = sheet.tables.getItem("OptionsDataTable")
+            var chart = sheet.charts.add("Line", dataRange, "auto");
+
+            chart.title.text = "Options Data";
+            chart.legend.position = "right"
+            chart.legend.format.fill.setSolidColor("white");
+            chart.dataLabels.format.font.size = 15;
+            chart.dataLabels.format.font.color = "black";
+            
+            return context.sync();
+        })
+            .catch(function (error) {
+                console.log("Error: " + error);
+                if (error instanceof OfficeExtension.Error) {
+                    console.log("Debug info: " + JSON.stringify(error.debugInfo));
+                }
+            });
+    }
 
 
 
